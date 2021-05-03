@@ -2,7 +2,8 @@
 To run the program, download all the dataset folders and the code file. Make sure they are in a same folder. 
 Try different dataset by changing the path name. 
 
-# '585ProjectReport.pdf' 
+# Project Report
+Check the details of the project through the file '585ProjectReport.pdf'. 
 Report of the project which contains:
 1) Abstract/Problem definition
 2) Related work
