@@ -3,7 +3,7 @@ To run the program, download all the dataset folders and the code file. Make sur
 Try different dataset by changing the path name. 
 
 # Project Report
-Check the details of the project through the file '585ProjectReport.pdf'. \
+Check the details of the project through the file 'Project Report.pdf'. \
 Report of the project contains:
 1) Abstract/Problem definition
 2) Related work
