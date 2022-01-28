@@ -1,4 +1,4 @@
-# CS585FinalProject
+
 To run the program, download all the dataset folders and the code file. Make sure they are in a same folder. 
 Try different dataset by changing the path name. 
 
